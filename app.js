@@ -131,7 +131,7 @@ let c2 = (x1 + y1) / 2;
 console.log(c1, c2);
 
 
-git
+
 
 let s1 = 123;
 let s2 = parseInt(s1 / 10) % 10;
@@ -153,3 +153,11 @@ let n3 = 3;
 let n4 = 4;
 let n5 = 5;
 console.log(n ** 2, n1 ** 2, n3 ** 2, n3 ** 2, n4 ** 2, n5 ** 2);
+
+
+let f1 = 12;
+let f2 = 18;
+let f3 = 22;
+let f4 = 10;
+
+alert("toplam :" + (f1 + f2 + f3 + f4));
